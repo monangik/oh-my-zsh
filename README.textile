@@ -1,15 +1,15 @@
-froked from https://github.com/robbyrussell/oh-my-zsh
+Froked from https://github.com/robbyrussell/oh-my-zsh
 
 New theme for RVM and GIT info.
 
-Preview theme "here":http://monangik.files.wordpress.com/2011/04/monangik-zsh-theme.png .
+Preview theme "http://monangik.files.wordpress.com/2011/04/monangik-zsh-theme.png":http://monangik.files.wordpress.com/2011/04/monangik-zsh-theme.png .
 
 
 h2. Setup
 
 1. Clone the repository
 
-  @git clone git@github.com:soham/oh-my-zsh.git ~/.oh-my-zsh@
+  @git clone https://github.com/soham/oh-my-zsh.git ~/.oh-my-zsh@
 
 2. Create a new zsh config by copying the zsh template.
 
